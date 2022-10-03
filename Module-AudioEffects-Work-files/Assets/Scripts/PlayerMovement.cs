@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float playerSpeed = 5f;
 
     Vector3 move;
-   CharacterController playerController;
+    CharacterController playerController;
 
     private void Awake()
     {
