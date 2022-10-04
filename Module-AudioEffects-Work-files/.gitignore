@@ -74,3 +74,6 @@ crashlytics-build.properties
 #Terrain sample asset and sample assets 
 /[Aa]ssets/TerrainSampleAssets/*
 /[Aa]ssets/SampleSceneAssets/*
+/[Aa]ssets/Free Ambient Instrumental Music/*
+/[Aa]ssets/speakers PBR/*
+/[Aa]ssets/3rd Note Voice Pack_Vol.01 Results Message/*
